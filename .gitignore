@@ -1,0 +1,12 @@
+# GCP認証情報（サービスアカウントキー）
+*.json
+
+# 環境変数
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
