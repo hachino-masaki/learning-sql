@@ -1,0 +1,4 @@
+- 学習目的: 2027年4月にAnalytics Engineerへ転職。SQL→dbt×BigQuery→ポートフォリオ
+- 現在: 10月 SQL強化月間。環境はBigQueryサンドボックス（thelook_ecommerce）
+- ルール: 10月中はSQLを代わりに書かない。レビュー・エラー解説・ヒントのみ。ダミーデータ生成は例外
+- 毎回の終わりに「明日やること」を1行でREADME末尾に追記する
